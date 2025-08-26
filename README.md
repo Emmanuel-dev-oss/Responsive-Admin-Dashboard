@@ -27,6 +27,15 @@ This dashboard is designed to be clean, lightweight, and visually appealing — 
 
 ---
 
+## 💡 How to Use
+
+- Integrate into your projects as a base dashboard.
+- Customize the cards, tables, and sidebar to fit your needs.
+- Replace placeholder images with your own profile or company branding.
+- Expand it with frameworks (React, Vue, or Angular) if you want to go bigger.
+
+---
+
 ## 📂 Project Structure  
 
 ```bash
