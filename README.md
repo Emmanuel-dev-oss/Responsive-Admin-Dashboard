@@ -5,7 +5,7 @@ This dashboard is designed to be clean, lightweight, and visually appealing — 
 
 ✨ Whether you’re a developer exploring frontend UI patterns or just need a solid base for a project, this dashboard has you covered.  
 
-![Live Dashboard Preview](https://responsive-admin-dashboard-psi.vercel.app)
+![responsive-admin-dashboard-psi.vercel.app]
 
 
 ## 🔥 Features  
