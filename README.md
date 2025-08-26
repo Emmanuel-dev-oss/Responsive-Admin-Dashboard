@@ -5,13 +5,6 @@ This dashboard is designed to be clean, lightweight, and visually appealing — 
 
 ✨ Whether you’re a developer exploring frontend UI patterns or just need a solid base for a project, this dashboard has you covered.  
 
----
-
-## 📸 Preview  
-
-(Add a screenshot or GIF of your project here, e.g. `![Dashboard Screenshot](img/screenshot.png)` )  
-
----
 
 ## 🔥 Features  
 
