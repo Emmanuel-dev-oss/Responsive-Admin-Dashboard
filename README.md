@@ -27,12 +27,26 @@ This dashboard is designed to be clean, lightweight, and visually appealing — 
 
 ---
 
+## 📌 Future Improvements
+
+- Dark mode toggle 🌙
+- Charts integration using Chart.js 📈
+- Authentication pages (Login / Register) 🔐
+- Backend connectivity for real data (Node.js / Django / Flask).
+
+---
+
 ## 💡 How to Use
 
 - Integrate into your projects as a base dashboard.
 - Customize the cards, tables, and sidebar to fit your needs.
 - Replace placeholder images with your own profile or company branding.
 - Expand it with frameworks (React, Vue, or Angular) if you want to go bigger.
+
+---
+
+## 🤝 Contributing
+*Pull requests are welcome! If you have ideas for improvements or spot bugs, feel free to open an issue or submit a Pull request*
 
 ---
 
